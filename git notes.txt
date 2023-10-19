@@ -14,3 +14,18 @@ git log
 # to create snapshots
 git add -A
 git commit -m "ANY MESSAGE"
+
+
+# add a remote 
+git remote add origin <URL>
+
+# check remotes
+git remote -v
+
+
+
+# push the first time
+git push -u origin main
+
+# push the nth time
+git push
