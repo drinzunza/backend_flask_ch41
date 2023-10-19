@@ -7,6 +7,10 @@ git init
 # check the status
 git status
 
+# check the log
+git log
+# use q to close the log
+
 # to create snapshots
 git add -A
 git commit -m "ANY MESSAGE"
