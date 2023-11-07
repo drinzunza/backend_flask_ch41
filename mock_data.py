@@ -10,7 +10,7 @@ catalog = [
     {
         "title": "Banana",
         "category": "fruit",
-        "price": 15.00,
+        "price": 16.00,
         "image": "banana.jpeg",
         "_id": "2",
     },
